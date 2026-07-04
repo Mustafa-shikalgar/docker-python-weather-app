@@ -107,17 +107,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Future Improvements
-
-* 5-Day Weather Forecast
-* Air Quality Index (AQI)
-* Sunrise and Sunset Information
-* Weather Icons
-* Auto Detect Current Location
-* Save Search History
-
----
-
 ## 👨‍💻 Author
 
 **Mustafa Shikalgar**
