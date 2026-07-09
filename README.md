@@ -107,8 +107,3 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
-
-**Mustafa Shikalgar**
-
-GitHub: https://github.com/Mustafa-shikalgar
