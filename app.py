@@ -14,7 +14,6 @@ response = requests.get(url)
 
 if response.status_code == 200:
     data = response.json()
-
     print("\n========== Weather Report ==========")
     print(f"City        : {data['name']}")
     print(f"Country     : {data['sys']['country']}")
@@ -24,6 +23,6 @@ if response.status_code == 200:
     print(f"Weather     : {data['weather'][0]['description'].title()}")
     print(f"Wind Speed  : {data['wind']['speed']} m/s")
     print("====================================")
-
+    
 else:
     print("City not found or invalid API key.")
